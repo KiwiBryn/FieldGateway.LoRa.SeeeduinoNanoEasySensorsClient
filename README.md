@@ -1,8 +1,6 @@
 # FieldGateway.LoRa.SeeeduinoNanoEasySensorsClient
 
-Seeeduino Nano, EasySensors RFM95 shield, temperature, humidity and CO2 monitor sensor node for my Windows 10 IoT Core LoRa field gateways
-
-Sample [Arduino Nano](https://www.arduino.cc/en/Guide/ArduinoNano) client for my [LoRa](https://lora-alliance.org/) field gateway projects
+[Arduino Nano](https://www.arduino.cc/en/Guide/ArduinoNano), EasySensors RFM95 shield, temperature, humidity and CO2 monitor sensor node for my Windows 10 IoT Core [LoRa](https://lora-alliance.org/) field gateways
 
 I used the [Arduino-Lora](https://github.com/sandeepmistry/arduino-LoRa), [Sparkfun ATSHA204](https://github.com/sparkfun/SparkFun_ATSHA204_Arduino_Library) and [Sensiron SCD30](https://github.com/Seeed-Studio/Seeed_SCD30) libraries, thank you to the authors Sandeep Mistry, Sparkfun & Seeedstudio.
 
