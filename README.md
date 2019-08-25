@@ -11,3 +11,5 @@ My Arduino Nano clients uses
 
 
 ![Seeeduino Nano Client](SensorNode.jpg)
+
+Detailed blog [post](https://blog.devmobile.co.nz/2019/08/14/grove-carbon-dioxide-sensorscd30-trial/)
